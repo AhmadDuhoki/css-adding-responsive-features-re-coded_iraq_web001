@@ -27,5 +27,7 @@
   }
   .col-3 p {
     column-count: 2;
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
   }
 }
